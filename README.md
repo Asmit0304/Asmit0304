@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/asmit-swarnakar-210a34267)  
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:asmitswarnakar76@gmail.com)  
 
 ---

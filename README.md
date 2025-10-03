@@ -1,7 +1,4 @@
-# Hi 👋, I'm Asmit  
-
-💡 Passionate about **programming, problem solving, and learning new technologies**. 
-
+# Hi 👋, I'm Asmit Swarnakar
 ---
 
 ## 🌟 About Me  
@@ -33,17 +30,16 @@
 ---
 
 ## 📊 GitHub Stats  
-## 📊 GitHub Stats
 ![Asmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmit&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=asmit&theme=radical)
  
 ## 🛠️ Languages I Use  
+<p>
 <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-
+</p>
 ---
 
 ## 🌱 Currently Learning
@@ -51,7 +47,7 @@
 - Cloud Computing
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/asmit-swarnakar-210a34267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([ww.linkedin.com/in/asmit-swarnakar-210a34267](https://www.linkedin.com/in/asmit-swarnakar-210a34267/))
 
 ---
 ⭐️ From [Asmit](https://github.com/Asmit0304)

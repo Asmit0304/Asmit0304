@@ -50,5 +50,3 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([ww.linkedin.com/in/asmit-swarnakar-210a34267](https://www.linkedin.com/in/asmit-swarnakar-210a34267/))
 
----
-⭐️ From [Asmit](https://github.com/Asmit0304)

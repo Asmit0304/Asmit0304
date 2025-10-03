@@ -15,17 +15,30 @@
 ---
 
 ## 🛠️ Tech Stack  
-## 🚀 Tech Stack
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+
+  <!-- SQL (MySQL logo as SQL icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+
+  <!-- Power BI (custom PNG since no devicon) -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" height="45"/>
+
+  <!-- Statistics (custom icon) -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-statistics-business-and-finance-flat-flat-juicy-fish.png" width="45" height="45"/>
+
+  <!-- Machine Learning (custom AI icon) -->
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="45" height="45"/>
+
+  <!-- Jupyter Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
 </p>
+
 
 
 ---

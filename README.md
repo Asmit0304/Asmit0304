@@ -30,8 +30,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Asmit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmit&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=asmit&theme=radical)
+![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmit&show_icons=true&theme=radical&hide_border=true)
+![Asmit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmit&theme=radical&hide_border=true)
  
 ## 🛠️ Languages I Use  
 <p>

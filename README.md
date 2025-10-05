@@ -1,5 +1,4 @@
 # Hi 👋, I'm Asmit Swarnakar
----
 
 ## About Me  
 - 🔭 Working on **AI/ML models**  

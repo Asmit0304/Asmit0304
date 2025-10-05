@@ -1,5 +1,7 @@
 # Hi 👋, I'm Asmit Swarnakar
 
+---
+
 ## About Me  
 - 🔭 Working on **AI/ML models**  
 - 🌱 Exploring **Data Science, Python, and Cloud Technologies**  

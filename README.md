@@ -1,7 +1,7 @@
 # Hi 👋, I'm Asmit Swarnakar
 ---
 
-## 🌟 About Me  
+## About Me  
 - 🔭 Working on **AI/ML models**  
 - 🌱 Exploring **Data Science, Python, and Cloud Technologies**  
 - 💬 Ask me about **Python and Data Structures & Algorithms**  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p>
   <!-- SQL (MySQL logo as SQL icon) -->
@@ -29,11 +29,11 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmit&show_icons=true&theme=radical&hide_border=true)
-![Asmit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmit&theme=radical&hide_border=true)
+## My GitHub Stats  
+![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit0304&show_icons=true&theme=radical&hide_border=true)
+![Asmit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmit0304&theme=radical&hide_border=true)
  
-## 🛠️ Languages I Use  
+## Languages I Use  
 <p>
 <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>

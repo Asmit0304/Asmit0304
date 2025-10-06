@@ -42,7 +42,7 @@
 ## My GitHub Stats  
 ![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit0304&show_icons=true&theme=radical&hide_border=true)
 ![Asmit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmit0304&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit0304&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit0304&layout=compact&theme=radical&hide_border=true&v=2)
  
 ---
 

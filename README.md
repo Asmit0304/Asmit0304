@@ -11,7 +11,7 @@
 
 ---
 
-## Tech Stack  
+## Tech Stack && Languages I Use 
 
 <p>
   <!-- SQL (MySQL logo as SQL icon) -->
@@ -24,8 +24,17 @@
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="45" height="45"/>
   <!-- Jupyter Notebook -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <!--numpy-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+   <!--pandas-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+   <!--matplotlib-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
 </p>
-
 
 
 ---
@@ -35,14 +44,6 @@
 ![Asmit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmit0304&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit0304&layout=compact&theme=radical&hide_border=true)
  
-## Languages I Use  
-<p>
-<!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
- <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-</p>
-
 ---
 
 ## 🌱 Currently Learning

@@ -1,5 +1,4 @@
-# Hi 👋, I'm Asmit Swarnakar
-### Data Analyst
+# Hi 👋, I'm Asmit Swarnakar</br>Data Analyst
 ---
 
 ## About Me  
